@@ -3,6 +3,7 @@ Name : Prakash Shanmugam
 Email : careers.prakash@gmail.com
 
 print(score)
+
 [0.02802405803632282, 0.9903]
 
 Convolution : Convolution is a layer to extract features from an input image. Convolution preserves the relationship between pixels by preserving image features using small squares of input data. It is a mathematical operation that takes two inputs such as image matrix and a filter or kernel.
