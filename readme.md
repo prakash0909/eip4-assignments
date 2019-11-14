@@ -2,6 +2,9 @@ Name : Prakash Shanmugam
 
 Email : careers.prakash@gmail.com
 
+print(score)
+[0.02802405803632282, 0.9903]
+
 Convolution : Convolution is a layer to extract features from an input image. Convolution preserves the relationship between pixels by preserving image features using small squares of input data. It is a mathematical operation that takes two inputs such as image matrix and a filter or kernel.
 
 Filters/Kernels : Filters are technique for modifying or enhancing an image. One can filter an image to emphasize certain features or remove other features. Image processing operations implemented with filtering include smoothing, sharpening, and edge enhancement.
@@ -23,3 +26,5 @@ Feature map : The feature map is the output of one filter applied to the previou
 Activation function : Activation function decides, whether a neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose of the activation function is to introduce non-linearity into the output of a neuron.
 
 Receptive field : The receptive field can be briefly defined as the region in the input space that a particular CNN’s feature is looking at .A receptive field of a feature can be described by its center location and its size.However, not all pixels in a receptive field is equally important to its corresponding CNN’s feature.Within a receptive field, the closer a pixel to the center of the field, the more it contributes to the calculation of the output feature. Which means that a feature does not only look at a particular region in the input image, but also focus exponentially more to the middle of that region.
+
+
