@@ -1,7 +1,7 @@
 Name : Prakash Shanmugam
 Email : careers.prakash@gmail.com
 
-LOGS FOR 20 EPOCHS
+LOGS FOR 20 EPOCHS 
 
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
