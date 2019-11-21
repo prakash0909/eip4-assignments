@@ -96,6 +96,6 @@ RESULT OF MODEL.EVALUATE
 STRATEGY FOLLOWED TO ACHIEVE THE RESULT
 
 1. Used biases in all convolution layers.
-2. Used seperable convolution technique. 5X5 = 5X1 and 1X5
+2. Used spatially seperable convolution technique. 5X5 = 5X1 and 1X5
 
 
