@@ -89,7 +89,7 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 
 RESULT OF MODEL.EVALUATE
 
-[0.020117798616783693, 0.9945]
+[0.020643361882469617, 0.9944]
 
 
 
